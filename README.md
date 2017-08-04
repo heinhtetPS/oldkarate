@@ -5,3 +5,5 @@ Hello, this contains some files from an unreleased amateur indie game I develope
 The name of the game is "Way of the Karate", or affectionally referred to as Karateman. 
 This was developed as a partnership between myself and Yui Jegnan, an old friend. He was in charge of art and management while I was lead programmer & project handler.  
 Although our project fell through due to time & financial constraints, I still want to share the awesomeness that we were able to create from scratch. 
+
+Check out some videos of the gameplay here: https://www.youtube.com/channel/UClCVlmJ_kLUJTahLkYdmMWg
