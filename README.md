@@ -3,7 +3,7 @@ Way of the Karate (Retired)
 
 ![alt text](https://github.com/heinhtetPS/oldkarate/blob/master/pics/karate.png "Logo Title Text 1")
 
-Gameplay: https://www.youtube.com/channel/UClCVlmJ_kLUJTahLkYdmMWg
+Gameplay: https://www.youtube.com/watch?v=9eWKM9N_9sw
 
 Blog: http://karatemandev.blogspot.com/2017/02/table-of-contents.html
 
