@@ -1,6 +1,8 @@
 Way of the Karate (Retired)
 ======
 
+![alt text](https://github.com/heinhtetPS/oldkarate/blob/master/pics/karate.png "Logo Title Text 1")
+
 Gameplay: https://www.youtube.com/channel/UClCVlmJ_kLUJTahLkYdmMWg
 
 Blog: http://karatemandev.blogspot.com/2017/02/table-of-contents.html
@@ -20,8 +22,13 @@ This project is written in C# and assembled in Unity3D. Since we were making a 2
 The game is currently in a working state with the following main features:
 
 1). 4 Linear levels connected by a comic strip storyline, including a heavy tutorial level.
+
 2). A fighting system that uses a light attack/heavy attack dichotemy and directional inputs that change these attacks. 
+
 3). A working skill and rune customization system with ~12 base skills and light & dark variations for each, resulting in ~24 unique skills combinations. 
+
 4). 6 different enemy types and 1 Boss, all with unique behavior and AI. 
+
 5). An endless mode where random enemies continually spawn, that can be accessed through the dojo.
+
 6). A unique combo system that is linked with the level's background display, which triggers different background events based on combo length. 
